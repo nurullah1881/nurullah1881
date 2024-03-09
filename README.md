@@ -40,15 +40,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥İstatistiklerim:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nurullah1881&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
