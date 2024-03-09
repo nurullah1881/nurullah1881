@@ -7,11 +7,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Hakkımda</h3>
+<h3 align="left">👩‍💻 Hakkımda</h3>
 
 ###
 
-<p align="left">Ben; eşzamanlı bir defacer, coder, producer ve graphicer olan bir Türk'üm.<br><br>- 🔭 Öğrenciyim.<br>- 📚 Şu anda Siber Güvenlik öğreniyorum.<br>- ⚡Boş zamanlarımda müzik yapıyorum.</p>
+<p align="left">Eşzamanlı defacer, coder, producer ve graphicer olan bir Türk'üm.<br><br>- 🔭 Öğrenciyim.<br>- 📚 Şu anda Siber Güvenlik öğreniyorum.<br>- ⚡ Boş zamanlarımda müzik yapıyorum.</p>
 
 ###
 
