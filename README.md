@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Eşzamanlı defacer, coder, producer ve graphicer olan bir Türk'üm.<br><br>- 🔭 Öğrenciyim.<br>- 📚 Şu anda Siber Güvenlik öğreniyorum.<br>- ⚡ Boş zamanlarımda müzik yapıyorum.</p>
+<p align="left">Eşzamanlı defacer, doxxer, designer, producer ve coder olan bir Türk'üm.<br><br>- 🔭 Öğrenciyim.<br>- 📚 Şu anda Siber Güvenlik öğreniyorum.<br>- ⚡ Boş zamanlarımda müzik yapıyorum.</p>
 
 ###
 
