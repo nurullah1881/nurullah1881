@@ -15,8 +15,7 @@
   
   - 🔭 Öğrenciyim.
   - 📚 Şu anda Siber Güvenlik öğreniyorum.
-  - - ⚡ Boş zamanlarımda müzik yapıyorum.
-    - </p>
+  - ⚡ Boş zamanlarımda müzik yapıyorum.</p>
 
 ###
 
